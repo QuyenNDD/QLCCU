@@ -33,7 +33,7 @@ namespace QLCCU.SubForm
             this.nhanVienTableAdapter.Fill(this.dataSet.NhanVien);
 
             cmbCHINHANH.DataSource = Program.bindingSource;/*sao chep bingding source tu form dang nhap*/
-            cmbCHINHANH.DisplayMember = "TENSERVER";
+            cmbCHINHANH.DisplayMember = "TENCN";
             cmbCHINHANH.ValueMember = "TENSERVER";
             cmbCHINHANH.SelectedIndex = Program.brand;
 

@@ -27,7 +27,7 @@ namespace QLCCU.SubForm
              phân mảnh mà thôi*/
             cmbCHINHANH.DataSource  = Program.bindingSource.DataSource;
             /*sao chep bingding source tu form dang nhap*/
-            cmbCHINHANH.DisplayMember = "TENSERVER";
+            cmbCHINHANH.DisplayMember = "TENCN";
             cmbCHINHANH.ValueMember = "TENSERVER";
             cmbCHINHANH.SelectedIndex = Program.brand;
 

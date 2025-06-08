@@ -36,7 +36,7 @@ namespace QLCCU.ReportForm
 
 
             cmbCHINHANH.DataSource = Program.bindingSource;
-            cmbCHINHANH.DisplayMember = "TENSERVER";
+            cmbCHINHANH.DisplayMember = "TENCN";
             cmbCHINHANH.ValueMember = "TENSERVER";
 
         }

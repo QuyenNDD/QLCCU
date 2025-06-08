@@ -114,7 +114,7 @@ namespace QLCCU
             maChiNhanh = ((DataRowView)bdsNhanVien[0])["MACN"].ToString();
             /*Step 2*/
             cmbCHINHANH.DataSource = Program.bindingSource;/*sao chep bingding source tu form dang nhap*/
-            cmbCHINHANH.DisplayMember = "TENSERVER";
+            cmbCHINHANH.DisplayMember = "TENCN";
             cmbCHINHANH.ValueMember = "TENSERVER";
             cmbCHINHANH.SelectedIndex = Program.brand;
             

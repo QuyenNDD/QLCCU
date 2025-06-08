@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "E:\\CSDLPT\\QLCCU\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|e:\\csdlpt\\qlccu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|e:\\csdlpt\\qlccu\\reportform\\formtonghopnhapxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|solutionrelative:reportform\\formtonghopnhapxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|E:\\CSDLPT\\QLCCU\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|solutionrelative:formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|E:\\CSDLPT\\QLCCU\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|solutionrelative:formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|E:\\CSDLPT\\QLCCU\\formchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|solutionrelative:formchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|e:\\csdlpt\\qlccu\\reportform\\formtonghopnhapxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40A706CE-1BA0-480E-9C78-1E8359C68BF9}|QLCCU.csproj|solutionrelative:reportform\\formtonghopnhapxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,54 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "E:\\CSDLPT\\QLCCU\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "E:\\CSDLPT\\QLCCU\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-31T17:49:33.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormChinh.cs",
-              "DocumentMoniker": "E:\\CSDLPT\\QLCCU\\FormChinh.cs",
-              "RelativeDocumentMoniker": "FormChinh.cs",
-              "ToolTip": "E:\\CSDLPT\\QLCCU\\FormChinh.cs",
-              "RelativeToolTip": "FormChinh.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Title": "FormTongHopNhapXuat.cs [Design]",
+              "DocumentMoniker": "E:\\CSDLPT\\QLCCU\\ReportForm\\FormTongHopNhapXuat.cs",
+              "RelativeDocumentMoniker": "ReportForm\\FormTongHopNhapXuat.cs",
+              "ToolTip": "E:\\CSDLPT\\QLCCU\\ReportForm\\FormTongHopNhapXuat.cs [Design]",
+              "RelativeToolTip": "ReportForm\\FormTongHopNhapXuat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:49:25.282Z"
+              "WhenOpened": "2025-06-08T15:26:19.04Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormChinh.Designer.cs",
-              "DocumentMoniker": "E:\\CSDLPT\\QLCCU\\FormChinh.Designer.cs",
-              "RelativeDocumentMoniker": "FormChinh.Designer.cs",
-              "ToolTip": "E:\\CSDLPT\\QLCCU\\FormChinh.Designer.cs",
-              "RelativeToolTip": "FormChinh.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormTongHopNhapXuat.cs",
+              "DocumentMoniker": "E:\\CSDLPT\\QLCCU\\ReportForm\\FormTongHopNhapXuat.cs",
+              "RelativeDocumentMoniker": "ReportForm\\FormTongHopNhapXuat.cs",
+              "ToolTip": "E:\\CSDLPT\\QLCCU\\ReportForm\\FormTongHopNhapXuat.cs",
+              "RelativeToolTip": "ReportForm\\FormTongHopNhapXuat.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwGQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:46:53.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormChinh.cs [Design]",
-              "DocumentMoniker": "E:\\CSDLPT\\QLCCU\\FormChinh.cs",
-              "RelativeDocumentMoniker": "FormChinh.cs",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\PTIT-Co-So-Du-Lieu-Phan-Tan-Quan-Ly-Vat-Tu-master\\PTIT-Co-So-Du-Lieu-Phan-Tan-Quan-Ly-Vat-Tu-master\\QLTVT\\FormChinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T17:46:53.477Z"
+              "WhenOpened": "2025-06-08T15:19:32.297Z",
+              "EditorCaption": ""
             }
           ]
         }

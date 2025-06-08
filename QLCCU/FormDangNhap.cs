@@ -34,7 +34,7 @@ namespace QLCCU
 
 
             cmbCHINHANH.DataSource = Program.bindingSource;
-            cmbCHINHANH.DisplayMember = "TENSERVER";
+            cmbCHINHANH.DisplayMember = "TENCN";
             cmbCHINHANH.ValueMember = "TENSERVER";
         }
         public FormDangNhap()
