@@ -55,6 +55,7 @@
     <li>Tạo <strong>Subscription</strong> để phân tán dữ liệu</li>
     <li>Chọn bảng và stored procedure muốn phân tán</li>
     <li>Thiết lập điều kiện phân tán</li>
+    <img src="image/Untitled.png" style="max-width: 100%; height: auto;"/>
   </ul>
 
   <h3>Bước 6: Tạo Linked Server</h3>
