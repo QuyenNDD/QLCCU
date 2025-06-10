@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>README - Quản lý Kho Hàng</title>
 </head>
 <body>
   <h1>README - Ứng dụng Quản lý Kho Hàng trong Chuỗi Cung Ứng</h1>
